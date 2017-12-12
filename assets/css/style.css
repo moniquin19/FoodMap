@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #4b4c4f;
+  font-family: 'Lato', sans-serif;
+  color: #ef9904;
+}
+
+.title {
+  font-size: 5em;
+  width: 100vw;
+  height: 100vh;
+  top: 4em;
+  text-align: center;
+}
+
+#two {
+
+}
