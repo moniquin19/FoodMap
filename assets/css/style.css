@@ -5,16 +5,17 @@
   background-color: #4b4c4f;
   font-family: 'Lato', sans-serif;
   color: #ef9904;
-}
-
-.title {
-  font-size: 5em;
-  width: 100vw;
-  height: 100vh;
-  top: 4em;
   text-align: center;
 }
 
-#two {
+.one .row {
+  width: 100%;
+  min-height: 367px;
+  font-size: 5em;
+  margin-top: 4em;
+  border-bottom: 1px solid yellow;
+}
 
+.two .row {
+  min-height: 100vh;
 }
