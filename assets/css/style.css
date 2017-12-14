@@ -1,5 +1,5 @@
 * {
-	margin: 0;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: #4b4c4f;
@@ -19,3 +19,64 @@
 .two .row {
   min-height: 100vh;
 }
+
+.eat {
+  margin-top: 18em;  
+}
+#categorias {
+  width: 60%;
+}
+.vzla {
+  margin-top: 5em;
+}
+
+.breakfast img {
+  min-width: 100%;
+}
+
+
+.vzla1 {
+  margin-top: 3em;
+}
+
+.dinner img {
+  min-width: 100%;
+  max-height: 18em;
+}
+
+.chile{
+  margin-top: 2em;
+}
+
+.breakfast1 img{
+ min-width: 100%;
+ max-height: 18em;
+}
+
+.chile2 {
+  margin-top: 2em;
+}
+.dinner1 img{
+ min-width: 100%;
+ max-height: 12em;
+}
+
+.peru {
+  margin-top: 2em;
+}
+
+.dinner2 img{
+min-width: 100%;
+max-height: 11em;
+}
+
+.peru2 {
+  margin-top: 2em;
+}
+
+.breakfast3 img{
+min-width: 100%;
+max-height: 13em;
+}
+}
+
